@@ -1,0 +1,18 @@
+Warunki Świadczenia Usługi:
+
+1. Zaproszenie bota na swój serwer jest równoznaczne z zaakceptowaniem niniejszych warunków świadczenia usługi oraz polityki prywatności.
+2. Bot jest dostarczany bez żadnej gwarancji działania. Nie ponosimy odpowiedzialności za jakiekolwiek przerwy w działaniu lub błędy.
+3. Korzystanie z bota jest bezpłatne.
+4. Bot może okresowo wysyłać wiadomości z reklamami od naszych sponsorów na kanał serwera.
+5. Wyrzucenie bota ze swojego serwera jest równoznaczne z zakończeniem umowy o świadczenie usługi.
+
+----- ----- ----- ----- -----
+
+Terms of Service:
+
+1. Inviting the bot to your server constitutes acceptance of these terms of service and the privacy policy.
+2. The bot is provided without any warranty of functionality. We are not responsible for any interruptions or errors in its operation.
+3. The use of the bot is free of charge.
+4. The bot may periodically send messages with advertisements from our sponsors to a server channel.
+5. Removing the bot from your server terminates the service agreement.
+

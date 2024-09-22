@@ -1,0 +1,24 @@
+Polityka Prywatności
+
+1. Przechowywanie danych:
+- Nasz bot nie przechowuje żadnych danych osobistych użytkowników. Nie gromadzimy, nie przetwarzamy ani nie przechowujemy żadnych informacji, które mogłyby zidentyfikować użytkowników Discord.
+
+2. Przekazywanie danych:
+- Żadne dane nie są udostępniane ani przekazywane innym podmiotom, organizacjom czy osobom trzecim.
+
+3. Zakres działania bota:
+- Bot działa wyłącznie w ramach serwerów Discord i wykonuje zadania zgodnie z jego funkcjonalnością, bez ingerencji w prywatność użytkowników.
+
+----- ----- ----- ----- -----
+
+Privacy Policy
+
+1. Data Storage:
+- Our bot does not store any personal data of users. We do not collect, process, or store any information that could identify Discord users.
+
+2. Data Sharing:
+- No data collected by our bot is shared or transferred to other entities, organizations, or third parties.
+
+3. Bot's Scope of Operation:
+- The bot operates exclusively within Discord servers and performs tasks according to its functionality without interfering with users' privacy.
+
